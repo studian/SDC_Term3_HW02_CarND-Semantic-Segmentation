@@ -2,19 +2,19 @@
 
 [animated-output]: ./runs/1504658354.6969173/anim_road.gif
 
-[image-um0]: ./training_sample/images/um_000000.png
-[image-um1]: ./training_sample/images/um_000001.png
-[image-umm0]: ./training_sample/images/umm_000000.png
-[image-umm1]: ./training_sample/images/umm_000001.png
-[image-uu0]: ./training_sample/images/uu_000000.png
-[image-uu1]: ./training_sample/images/uu_000001.png
+[image-um0]: ./data/um_000000.png
+[image-um1]: ./data/um_000001.png
+[image-umm0]: ./data/umm_000000.png
+[image-umm1]: ./data/umm_000001.png
+[image-uu0]: ./data/uu_000000.png
+[image-uu1]: ./data/uu_000001.png
 
-[gtimage-um0]: ./training_sample/gt_images/um_lane_000000.png
-[gtimage-um1]: ./training_sample/gt_images/um_lane_000001.png
-[gtimage-umm0]: ./training_sample/gt_images/umm_road_000000.png
-[gtimage-umm1]: ./training_sample/gt_images/umm_road_000001.png
-[gtimage-uu0]: ./training_sample/gt_images/uu_road_000000.png
-[gtimage-uu1]: ./training_sample/gt_images/uu_road_000001.png
+[gtimage-um0]: ./data/um_lane_000000.png
+[gtimage-um1]: ./data/um_lane_000001.png
+[gtimage-umm0]: ./data/umm_road_000000.png
+[gtimage-umm1]: ./data/umm_road_000001.png
+[gtimage-uu0]: ./data/uu_road_000000.png
+[gtimage-uu1]: ./data/uu_road_000001.png
 
 [result-image-um0]: ./runs/1504658354.6969173/um_000000.png
 [result-image-um1]: ./runs/1504658354.6969173/um_000001.png
