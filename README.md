@@ -62,7 +62,7 @@ The loss function for the network is cross-entropy, and an Adam optimizer is use
 The hyperparameters used for training are:
 
   - keep_prob: 0.5
-  - learning_rate: 0.0009
+  - learning_rate: 1e-4
   - epochs: 25
   - batch_size: 16
 
