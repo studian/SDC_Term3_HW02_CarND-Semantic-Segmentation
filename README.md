@@ -69,32 +69,33 @@ The hyperparameters used for training are:
 ---
 
 ### Train Results
-
-- Epoch: 0/25 | Execution Time: 19.111719 sec | Loss: 0.5272083282470703
-- Epoch: 1/25 | Execution Time: 35.192439 sec | Loss: 0.2041412889957428
-- Epoch: 2/25 | Execution Time: 51.362913 sec | Loss: 0.16918902099132538
-- Epoch: 3/25 | Execution Time: 67.358598 sec | Loss: 0.19845721125602722
-- Epoch: 4/25 | Execution Time: 83.408402 sec | Loss: 0.14211736619472504
-- Epoch: 5/25 | Execution Time: 99.636254 sec | Loss: 0.16290423274040222
-- Epoch: 6/25 | Execution Time: 115.70175099999999 sec | Loss: 0.1123085767030716
-- Epoch: 7/25 | Execution Time: 131.741223 sec | Loss: 0.5022396445274353
-- Epoch: 8/25 | Execution Time: 147.769128 sec | Loss: 0.13068705797195435
-- Epoch: 9/25 | Execution Time: 163.813714 sec | Loss: 0.11155102401971817
-- Epoch: 10/25 | Execution Time: 179.83248799999998 sec | Loss: 0.08798660337924957
-- Epoch: 11/25 | Execution Time: 195.88330399999998 sec | Loss: 0.15328627824783325
-- Epoch: 12/25 | Execution Time: 211.923601 sec | Loss: 0.05937640368938446
-- Epoch: 13/25 | Execution Time: 227.927481 sec | Loss: 0.0824950635433197
-- Epoch: 14/25 | Execution Time: 243.924142 sec | Loss: 0.07202279567718506
-- Epoch: 15/25 | Execution Time: 259.94838 sec | Loss: 0.05812866985797882
-- Epoch: 16/25 | Execution Time: 275.939361 sec | Loss: 0.06622869521379471
-- Epoch: 17/25 | Execution Time: 291.978812 sec | Loss: 0.13202236592769623
-- Epoch: 18/25 | Execution Time: 308.036312 sec | Loss: 0.09400054067373276
-- Epoch: 19/25 | Execution Time: 324.012979 sec | Loss: 0.03189713507890701
-- Epoch: 20/25 | Execution Time: 340.00436 sec | Loss: 0.06519308686256409
-- Epoch: 21/25 | Execution Time: 355.966684 sec | Loss: 0.021495511755347252
-- Epoch: 22/25 | Execution Time: 371.971759 sec | Loss: 0.03929092362523079
-- Epoch: 23/25 | Execution Time: 387.93568899999997 sec | Loss: 0.032834939658641815
-- Epoch: 24/25 | Execution Time: 403.961944 sec | Loss: 0.06721004098653793
+Epoch   |  Execution Time   |  Loss
+:-------:|:-----------------:|:-----------------:
+Epoch: 0/25 | Execution Time: 19.111719 sec | Loss: 0.5272083282470703
+Epoch: 1/25 | Execution Time: 35.192439 sec | Loss: 0.2041412889957428
+Epoch: 2/25 | Execution Time: 51.362913 sec | Loss: 0.16918902099132538
+Epoch: 3/25 | Execution Time: 67.358598 sec | Loss: 0.19845721125602722
+Epoch: 4/25 | Execution Time: 83.408402 sec | Loss: 0.14211736619472504
+Epoch: 5/25 | Execution Time: 99.636254 sec | Loss: 0.16290423274040222
+Epoch: 6/25 | Execution Time: 115.70175099999999 sec | Loss: 0.1123085767030716
+Epoch: 7/25 | Execution Time: 131.741223 sec | Loss: 0.5022396445274353
+Epoch: 8/25 | Execution Time: 147.769128 sec | Loss: 0.13068705797195435
+Epoch: 9/25 | Execution Time: 163.813714 sec | Loss: 0.11155102401971817
+Epoch: 10/25 | Execution Time: 179.83248799999998 sec | Loss: 0.08798660337924957
+Epoch: 11/25 | Execution Time: 195.88330399999998 sec | Loss: 0.15328627824783325
+Epoch: 12/25 | Execution Time: 211.923601 sec | Loss: 0.05937640368938446
+Epoch: 13/25 | Execution Time: 227.927481 sec | Loss: 0.0824950635433197
+Epoch: 14/25 | Execution Time: 243.924142 sec | Loss: 0.07202279567718506
+Epoch: 15/25 | Execution Time: 259.94838 sec | Loss: 0.05812866985797882
+Epoch: 16/25 | Execution Time: 275.939361 sec | Loss: 0.06622869521379471
+Epoch: 17/25 | Execution Time: 291.978812 sec | Loss: 0.13202236592769623
+Epoch: 18/25 | Execution Time: 308.036312 sec | Loss: 0.09400054067373276
+Epoch: 19/25 | Execution Time: 324.012979 sec | Loss: 0.03189713507890701
+Epoch: 20/25 | Execution Time: 340.00436 sec | Loss: 0.06519308686256409
+Epoch: 21/25 | Execution Time: 355.966684 sec | Loss: 0.021495511755347252
+Epoch: 22/25 | Execution Time: 371.971759 sec | Loss: 0.03929092362523079
+Epoch: 23/25 | Execution Time: 387.93568899999997 sec | Loss: 0.032834939658641815
+Epoch: 24/25 | Execution Time: 403.961944 sec | Loss: 0.06721004098653793
 
 ### Test Results 
 
