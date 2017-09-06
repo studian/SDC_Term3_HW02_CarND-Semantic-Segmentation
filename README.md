@@ -5,6 +5,8 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 ### Setup
 ##### Frameworks and Packages
 Make sure you have the following is installed:
+`conda env create -f environment.yaml`
+
  - [Python 3](https://www.python.org/)
  - [TensorFlow](https://www.tensorflow.org/)
  - [NumPy](http://www.numpy.org/)
